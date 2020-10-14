@@ -1,0 +1,17 @@
+import random
+
+color_list = [0,1,2,3]
+GameOrder = []
+
+def Return_GameOrder (level):
+    global GameOrder
+    Increase = int((level/5)+1)
+
+    for i in range (Increase):
+        GameOrder+=[random.choice(color_list)]
+
+    return (GameOrder)
+
+def reset_GameOrder ():
+    global GameOrder
+    GameOrder = []
