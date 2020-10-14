@@ -1,6 +1,6 @@
 ># Instrucciones
 
-**SIMON is a really easy and fun game to play**<
+**SIMON is a really easy and fun game to play**
 
 ## Dependencias
 
@@ -14,7 +14,7 @@
 
 `pip install pyglet`
 
-_Descargar el juego [aquí] ()_
+_Descargar el juego [aquí](https://github.com/MrDrHax/simon-game/releases/tag/official)_
 
 _Descomprime el juego_
 
