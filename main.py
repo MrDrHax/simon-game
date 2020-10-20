@@ -23,6 +23,7 @@ colors = {
 # |  $$$$$$$|  $$$$$$/|  $$$$$$$| $$|  $$$$$$/
 #  \_______/ \______/  \_______/|__/ \______/ 
 
+#crea todas las opciones de audio, y carga los audios a un player para poder ser usados despues
 pyglet.options['search_local_libs'] = True
 pyglet.options['audio'] = ('openal', 'pulse', 'directsound', 'silent')
 
@@ -343,7 +344,7 @@ def scheduleGameSteps(timePerBlink, rest, endTimeDelay):
     
     pyglet.clock.schedule_once(activateControlls, len(gameNotes) * (timePerBlink + rest) + endTimeDelay)
     
-
+# this makes the main game run, and get everything set-up
 gameNotes = [0,1,2,3,3,2,1,0]
 
 activeControlls =  False
