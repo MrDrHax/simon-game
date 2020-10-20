@@ -14,7 +14,7 @@
 
 `pip install pyglet`
 
-_Descargar el juego [aquí](https://github.com/MrDrHax/simon-game/releases/tag/official)_
+_Descargar el juego [aquí](https://github.com/MrDrHax/simon-game/releases/tag/official) _
 
 _Descomprime el juego_
 
@@ -63,7 +63,7 @@ El código del juego ejecuta un bucle principal, donde se almacenan todas las va
 Dependiendo  de  la  luz  del  color,  se  colorea  un  segmento  de  líneas  con  un  color  más brillante a la hora de ser presionado. Luego se deja que un script controle las notas, y la  otra  parte  del  código  hace  todas  las  comprobaciones  de  la  información  dentro  del código.  Al  final,  estas  partes  del  código  permanecen  en  diferentes  archivos  y  se importan al principal. 
 
 
-## SIMON:
+#### SIMON:
 es  un  juego  creado  en  pyglet  en  donde  al  correr  el  código  se  despliega  un tablero en donde se ven 4 colores oscuros al rededor de un contador que inicia en 0. El juego comienza dando un patrón de colores y sonidos para que pueda ser seguido por el  jugador,  si  se  realiza  correctamente  el  patrón,  el  contador  marcará  un  punto  y  así sucesivamente.  Pero  si  no  se  realiza  bien  el  patrón,  el  contador  volverá  a  su  valor original y se tendrá que empezar de nuevo.  El punto del juego es poner a prueba la memoria usando los sentidos y la diversión de un sencillo juego con colores y sonidos. A su vez, de que el juego puede ser usado en turnos  con  otros  jugadores  para  ver  quien  llega  más  lejos,  haciendo  una  competencia saludable, como nuevo reto el cual se puede ir superando. De esta forma, se ejercita el cerebro y se puede lograr una gran reflexión de como usar la tecnología para el bien y la educación.  
 
 Se  tuvo  la  idea  de  realizar  este  juego  al  pensar  en  poner  a  prueba  la  memoria  de  los jugadores,  junto  con  la  emoción  y  deseo  de  crear  algo  divertido  con  la  finalidad  de seguir aprendiendo.  
