@@ -14,7 +14,7 @@
 
 `pip install pyglet`
 
-_Descargar el juego [aquí](https://github.com/MrDrHax/simon-game/releases/tag/official) _
+Descargar el juego [aquí](https://github.com/MrDrHax/simon-game/releases) 
 
 _Descomprime el juego_
 
@@ -24,7 +24,7 @@ _Guardalo en una carpeta conocida_
 
 _abrir `main.py`
 
-_Correr el juego_
+_Correr el juego_ puedes usar en cmd y la misma carpeta `python3 main.py`
 
 _Ahora ¡a jugar!_
 
