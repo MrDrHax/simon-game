@@ -16,7 +16,7 @@ You will need:
 
 ## first steps:
 
-1. Download game from the [realize page]()
+1. Download game from the [release page](https://github.com/MrDrHax/simon-game/releases)
 
 2. Unzip package
 
