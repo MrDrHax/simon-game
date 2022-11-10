@@ -8,7 +8,7 @@ colors = {
     'green': (0,255,0),
     'blue' : (0,0,255),
     'yellow' : (255,255,0),
-    'dark red' : (50,0,0),
+    'dark red' : (90,0,0),
     'dark green': (0,100,0),
     'dark blue' : (0,0,100),
     'dark yellow' : (100,100,0)
