@@ -4,14 +4,14 @@ from pyglet import shapes
 
 # colors in RGB
 colors = {
-    'red' : (255,0,0),
-    'green': (0,255,0),
-    'blue' : (0,0,255),
-    'yellow' : (255,255,0),
-    'dark red' : (100,0,0),
-    'dark green': (0,100,0),
-    'dark blue' : (0,0,100),
-    'dark yellow' : (100,100,0)
+    'red' : (0,0,0),
+    'green': (0,0,0),
+    'blue' : (0,0,0),
+    'yellow' : (0,0,0),
+    'dark red' : (0,0,0),
+    'dark green': (0,0,0),
+    'dark blue' : (0,0,0),
+    'dark yellow' : (0,0,0)
 }
 
 #                            /$$ /$$          
